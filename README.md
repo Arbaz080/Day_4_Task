@@ -1,1 +1,1 @@
-# Day_4_Task
+Developed a SQL-based data analysis project where I extracted, filtered, and summarized insights from a dataset using SELECT, WHERE, ORDER BY, and GROUP BY. Combined data across tables using INNER, LEFT, and RIGHT joins, wrote subqueries for complex filtering, and applied aggregate functions like SUM and AVG. Created views for reusable analysis and optimized queries with indexes to improve performance. Delivered a complete SQL file containing all queries used in the analysis.
